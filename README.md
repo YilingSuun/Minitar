@@ -1,4 +1,4 @@
-#Minitar
+# Minitar
 
 The goal of this project is to develop a simplified version of the tar utility, called minitar. tar is one of the popular tools among users of Linux and other Unix-derived operating systems. It creates a single archive file from several member files. Thus, tar is very similar to the zip tool we use for code submission in this class, although it does not perform file compression as zip does.
 
