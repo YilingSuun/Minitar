@@ -81,12 +81,17 @@ Any command-line invocation of `minitar` will adhere to the following pattern:
 
 # Makefile
 
-A `Makefile` is provided as part of this project, much like you have seen for the lab assignments. This file supports the following commands:
+A `Makefile` is provided as part of this program. This file supports the following commands:
 
 `make`: Compile all code, produce an executable `minitar` program.
+
 `make clean`: Remove all compiled items. Useful if you want to recompile everything from scratch.
+
 `make clean-tests`: Remove all files produced during execution of the tests.
+
 `make zip`: Create a zip file for submission to Gradescope
+
 `make test`: Run all test cases
+
 `make test` testnum=5: Run test case #5 only
 
