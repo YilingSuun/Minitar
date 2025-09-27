@@ -8,6 +8,8 @@ minitar is fully Posix-compliant, meaning it can freely interoperate with all of
 
 Note, however, that there are some areas in which Linux’s `tar` program differs from strict adherence to the Posix standard – meaning the archives produced by `minitar` won’t always be byte-for-byte equivalent with those of tar.
 
+---
+
 # minitar
 
 The `tar` program included in most Unix-based environments, like Linux in our 4061 Docker containers, 
