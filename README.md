@@ -20,6 +20,17 @@ the “Traditional” or GNU style arguments you may run across in other example
 ---
 
 ## Usage
+**1. Compile the program**
+```bash
+make
+```
+
+**2. Run the program**
+```bash
+./minitar
+```
+
+**3. Interact with minitar**  
 
 Any command-line invocation of `minitar` will adhere to the following pattern:
 
